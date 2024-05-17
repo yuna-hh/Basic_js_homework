@@ -35,3 +35,5 @@ for (let i = 1; i <= 10; i++) {
 
 // 6번
 setTimeout(() => console.log("3초 후에 출력되는 텍스트입니다."), 3000);
+
+// 7번은 third 폴더에
