@@ -1,0 +1,16 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin: 10px;
+}
+
+.clicked {
+  background-color: red;
+}
+
+.content {
+  width: 100vw;
+  height: 300vh;
+  background-color: skyblue;
+}
